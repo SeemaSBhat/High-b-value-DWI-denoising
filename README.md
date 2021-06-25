@@ -1,2 +1,2 @@
 # High-b-value-DWI-denoising
-Deep learning based denoising can improve signal-to-noise ratio in high b-value diffusion imaging with reduced acquisition time. We applied deep learning based denoising method on retrospective and prospective high b-value DWI. Unsharp masking used during testing to emphasize medium contrast details. ![image](https://user-images.githubusercontent.com/86373079/123409919-5ae60200-d5cc-11eb-965e-f325d9ef7cef.png)
+Deep learning based denoising can improve signal-to-noise ratio in high b-value diffusion imaging with reduced acquisition time. We applied deep learning based denoising method on retrospective and prospective high b-value DWI. Unsharp masking used during testing to emphasize medium contrast details.
