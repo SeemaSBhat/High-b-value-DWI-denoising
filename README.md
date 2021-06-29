@@ -11,8 +11,8 @@ _`$ python Generate_patches_prospective_DWI.ipynb `_<br /><br />
 Clean patches are extracted from  'Training_datab3000/04032021/processed' and saved in  'data/npy_data'.<br /><br />
 
 **Train and test**<br />
-_`-$ python Retrospective_high_b_value_DWI_Denoising.ipynb`_ <br /><br />
-_`-$ python Prospective_high_b_value_DWI_Denoising.ipynb`_ <br />
+_`$ python Retrospective_high_b_value_DWI_Denoising.ipynb`_ <br /><br />
+_`$ python Prospective_high_b_value_DWI_Denoising.ipynb`_ <br />
 
 
 
