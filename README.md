@@ -15,7 +15,7 @@ _`$ python Retrospective_high_b_value_DWI_Denoising.ipynb`_ <br /><br />
 _`$ python Prospective_high_b_value_DWI_Denoising.ipynb`_ <br /><br />
 
 **FA maps generation** <br />
- The following tools are used to visualize FA maps prior to following denoising.
+ The following tools are used to visualize FA maps prior to and following denoising.
  * [DCM2NII](http://www.cabiatl.com/mricro/mricron/dcm2nii.html) <br />
  * [DSI_STUDIO](http://dsi-studio.labsolver.org)
 
