@@ -3,7 +3,8 @@ Deep learning based denoising can improve signal-to-noise ratio in high b-value 
 
 **Prepare training data**<br />
 _`$ python Generate_patches_for_retrospective_DWI.ipynb`_<br /><br />
-Clean patches are extracted from 'training_data/sub-TCRc007/ses-1/dwi' and saved in  'data/npy_data'.<br /><br />
+The DnCNN model was trained using high b-value DWI from open neuro databse.We used 150 slices from the original image('training_data/sub-TCRc007/ses-1/dwi') to create clean patches from the above mention python file  and saved in  'data/npy_data'.Later, extrxted 219,000  noisy and clean patches for training the DnCNN model.<br /><br />.
+ 
 
 **Train and test**<br />
 _`$ python Retrospective_high_b_value_DWI_Denoising.ipynb`_ <br /><br />
